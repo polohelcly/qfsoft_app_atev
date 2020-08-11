@@ -1,0 +1,13 @@
+server:
+  port: 9480
+  servlet:
+    session:
+      timeout: 30
+logging:
+  path: logs
+  level:
+    org.springframework.web: INFO
+    org.hibernate: ERROR
+spring:
+  thymeleaf:
+    mode: HTML5
