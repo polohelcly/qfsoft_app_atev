@@ -2,8 +2,8 @@ package com.qfsoft.qfsoft_app_atev.util;
 
 public class ProjectParam {
 
-    public final static String divchar = ",";
-    public final static String concatchar = "@";
-    public final static String splitchar = ";";
+    public final static String DIVCHAR = ",";
+    public final static String CONCATCHAR = "@";
+    public final static String SPLITCHAR = ";";
 
 }
